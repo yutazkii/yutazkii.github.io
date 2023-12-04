@@ -4,7 +4,7 @@ About ; Daniel Caesar
 
 Daniel Caesar - one of the best artist and comfort of all.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HdA6zKbdpYs?si=Odc7inU-Ukz-bPia" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube.com/embed/HdA6zKbdpYs
 
 ![image](https://github.com/yutazkii/yutazkii.github.io/assets/151000571/ad14c245-6bab-4a9a-a489-5615ead89600)
 
