@@ -4,7 +4,10 @@ About ; Daniel Caesar
 
 Daniel Caesar - one of the best artist and comfort of all.
 
+
 https://www.youtube.com/embed/HdA6zKbdpYs
+"It’s never over until life ends"
+
 
 ![image](https://github.com/yutazkii/yutazkii.github.io/assets/151000571/ad14c245-6bab-4a9a-a489-5615ead89600)
 
